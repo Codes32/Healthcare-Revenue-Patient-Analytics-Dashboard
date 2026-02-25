@@ -32,4 +32,5 @@ Identify high-performing departments
 Monitor payment processing delays
 Analyze insurance-based revenue distribution
 
-<img width="1288" height="719" alt="Screenshot 2026-02-25 172121" src="https://github.com/user-attachments/assets/31bca20b-7778-4411-b0b6-e59a92f0f8cb" />
+<img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/ff27a032-ae5b-49bc-a1c7-ade6e74ad403" />
+
