@@ -16,12 +16,6 @@
 
 ---
 
-## Dashboard Preview
-
-![Healthcare Revenue Dashboard](<img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/ff27a032-ae5b-49bc-a1c7-ade6e74ad403" />)
-
----
-
 ## Key Insights
 
 | Finding | Impact |
@@ -76,6 +70,8 @@ Implemented a **star schema** with a central fact table (billing transactions) c
 Built to simulate a real-world healthcare analytics scenario — demonstrating end-to-end analyst workflow from raw data cleaning through to executive-ready dashboard reporting.
 
 **Author:** Akshata Madhav · [LinkedIn](https://www.linkedin.com/in/akshata-madhav-9323a7203/) · [Portfolio](https://akshatamadhavportfolio.netlify.app/)
+
+## Dashboard Preview
 
 <img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/ff27a032-ae5b-49bc-a1c7-ade6e74ad403" />
 
